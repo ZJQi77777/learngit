@@ -1,2 +1,3 @@
 1. git is a distributed version control system.
 3. git is perfect.
+4. git is a free software
