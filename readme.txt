@@ -4,4 +4,4 @@
 5. stupid boss use SVN
 6. this is 6 line
 7. creating a new branch is quick & simpole
-8. conflict1 zhangjiaqi-conflict
+8. conflict1 zhangjiaqi-conflict zjqi-conflict3
